@@ -1,0 +1,28 @@
+#a
+{
+    background-color:orangered;
+    color:orange;
+    width:1000px;
+}
+#b
+{
+    background-color:whitesmoke;
+    color:black;
+    width:1000px;
+}
+#c
+{
+    background-color:green;
+    color:greenyellow;
+    width:1000px;
+}
+img
+{
+ border-radius: 20px;
+ width:500px;
+ height:500px;
+}
+body
+{
+    background-color: antiquewhite;
+}
